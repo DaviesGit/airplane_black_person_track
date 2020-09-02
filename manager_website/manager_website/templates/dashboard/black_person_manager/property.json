@@ -1,0 +1,15 @@
+[
+    "name",
+    "sex",
+    "age",
+    "native_place",
+    "political_outlook",
+    "email",
+    "telephone",
+    "id_card",
+    "address",
+    "domicile",
+    "is_fugitive",
+    "is_crime",
+    "comment"
+]

@@ -1,0 +1,48 @@
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="name">姓名 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="name" name="name" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="sex">性别 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="sex" name="sex" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="age">年龄 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="age" name="age" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="native_place">籍贯 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="native_place" name="native_place" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="political_outlook">政治面貌 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="political_outlook" name="political_outlook" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="email">邮箱 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="email" name="email" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="telephone">电话号码 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="telephone" name="telephone" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="id_card">身份证号码 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="id_card" name="id_card" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="address">家庭住址 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="address" name="address" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="domicile">户籍所在地 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="domicile" name="domicile" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="is_fugitive">是否在逃人员 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="is_fugitive" name="is_fugitive" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>
+<div class="item form-group">
+  <label class="control-label col-md-3 col-sm-3 col-xs-12" for="is_crime">是否有过违法犯罪记录 <span >：</span></label>
+  <div class="col-md-6 col-sm-6 col-xs-12"><input id="is_crime" name="is_crime" type="text" class="form-control col-md-7 col-xs-12"></div>
+</div>

@@ -1,0 +1,30 @@
+.main_container{
+    width: 98%;
+    height: 98%;
+    position: absolute;
+}
+
+.background_image{
+    position:absolute;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+}
+.background_image>img{
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+     margin: auto;
+}
+.location_tracking{
+    position:absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+}
+.location_tracking canvas{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    display: block;
+}
